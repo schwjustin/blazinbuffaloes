@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/blazinbuffaloes/static/css/main.46cee394.css",
+    "main.js": "/blazinbuffaloes/static/js/main.3b80f6ce.js",
+    "static/media/blazinbuffalo.svg": "/blazinbuffaloes/static/media/blazinbuffalo.9670d99f67b1fe2f4692a74a93f0f7f3.svg",
+    "index.html": "/blazinbuffaloes/index.html",
+    "main.46cee394.css.map": "/blazinbuffaloes/static/css/main.46cee394.css.map",
+    "main.3b80f6ce.js.map": "/blazinbuffaloes/static/js/main.3b80f6ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cee394.css",
+    "static/js/main.3b80f6ce.js"
+  ]
+}
