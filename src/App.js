@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./styles/app.scss";
+import buffalo from './assets/blazinbuffalo.svg'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div class="content">
+			<div class="titleContent">
+				<h1>BlazinBuffaloes</h1>
+				<h2>Stampeding Soon</h2>
+			</div>
+			<img
+				class="logo"
+				src={buffalo}
+				alt="Blazin Buffalo NFT Graphic"
+			></img>
+		</div>
+	);
 }
 
 export default App;
