@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.ece7f657.css",
-    "main.js": "/static/js/main.3ef7ffcf.js",
+    "main.js": "/static/js/main.d1fa1957.js",
+    "static/media/bzbf.png": "/static/media/bzbf.404dc617d5838839d1f1.png",
     "static/media/blazinbuffalo.svg": "/static/media/blazinbuffalo.9670d99f67b1fe2f4692.svg",
     "index.html": "/index.html",
     "main.ece7f657.css.map": "/static/css/main.ece7f657.css.map",
-    "main.3ef7ffcf.js.map": "/static/js/main.3ef7ffcf.js.map"
+    "main.d1fa1957.js.map": "/static/js/main.d1fa1957.js.map"
   },
   "entrypoints": [
     "static/css/main.ece7f657.css",
-    "static/js/main.3ef7ffcf.js"
+    "static/js/main.d1fa1957.js"
   ]
 }
