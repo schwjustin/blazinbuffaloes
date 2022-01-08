@@ -484,11 +484,17 @@ a {
 	}
 }
 
+
 .container {
 	position: relative;
 	width: 100%;
 	height: 100%;
 }
+
+.discord-tilt {
+
+}
+
 .discord-link {
 	position: fixed;
 	display: inline-block;
@@ -496,6 +502,7 @@ a {
 	right: 3rem;
 	cursor: pointer;
 	z-index: 1;
+  transform: scale(1.5);
 }
 .discord-link span {
 	display: inline-block;
@@ -503,7 +510,7 @@ a {
 .join-discord {
 	position: relative;
 	z-index: -1;
-	transform: scale(1.5);
+	
 }
 .hero {
 	display: block;
@@ -685,7 +692,7 @@ a {
 		}
 	}
 
-	.join-discord {
+	.discord-link {
 		transform: scale(1);
 	}
 

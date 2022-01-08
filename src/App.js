@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-import React, { Component }  from 'react';
-import "styles/App.scss";
+import "styles/app.scss";
 import * as contractUtils from "utils/ContractUtil";
 import Tilt from 'react-parallax-tilt';
 // import {checkWallet } from "utils/ContractUtil";
@@ -109,7 +108,10 @@ function App() {
 
 					<div class="hero-image"></div>
 
+				
+
 					<a href="https://discord.com/invite/ezCzNwfNg3" class="discord-link">
+					
 						<span>
 							<svg
 								class="join-discord"
@@ -233,8 +235,10 @@ function App() {
 								</defs>
 							</svg>
 						</span>
+						
+					
+			
 					</a>
-
 					{/* <div>{contractButton()}</div> */}
 					<div class="mint-section">
 						<div
@@ -243,7 +247,7 @@ function App() {
 								"mint-label mint-label-animation"
 							}
 						>
-							Minting will be available on Jan 14th! Presale: 0.05 Eth, Public: 0.1 ETH
+							Minting will be available on Jan 14th! Presale: 0.05 ETH, Public: 0.1 ETH
 						</div>
 						<button
 							onClick={() => {
